@@ -1,0 +1,5 @@
+[1,"Installing 'ggpol' ...\n"]
+[2,"trying URL 'https://cran.rstudio.com/bin/macosx/big-sur-arm64/contrib/4.2/ggpol_0.0.7.tgz'\n"]
+[1,"The downloaded binary packages are in\n"]
+[1,"\t/var/folders/n0/zj7_vj8s0nbftfn78y6d6kpc0000gn/T//RtmpCK7xja/downloaded_packages\n"]
+[2,"Content type 'application/x-gzip' length 293965 bytes (287 KB)\n==================================================\ndownloaded 287 KB\n\n\n\n✔ Package 'ggpol' successfully installed.\n"]

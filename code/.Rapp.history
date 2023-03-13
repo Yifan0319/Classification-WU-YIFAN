@@ -1,0 +1,7 @@
+load("/Users/wuyifan/Desktop/code/BPNNModel.rds")
+load("/Users/wuyifan/Desktop/code/data_test.rds")
+load("/Users/wuyifan/Desktop/code/data_train.rds")
+load("/Users/wuyifan/Desktop/code/lassoBPNNModel.rds")
+load("/Users/wuyifan/Desktop/code/BPNNModel.rds")
+load("/Users/wuyifan/Desktop/code/lassoModel.rds")
+load("/Users/wuyifan/Desktop/code/BPNNModel.rds")
